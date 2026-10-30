@@ -24,6 +24,7 @@
 | Dự án | Mô tả | Công nghệ | GitHub | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
 | **Đi Thôi! (LetGoo)** | Trợ lý du lịch AI, lập lịch trình tuần tự vẽ lộ trình bản đồ, cảnh báo ngâm quán & phòng vote nhóm | `React 18` `Spring Boot 3` `Gemini AI` `Leaflet` | [💻 Repository](https://github.com/s0nbuildtech287/dontalk_letgo) | [🔗 Live Demo](https://dontalk-letgo.vercel.app/) |
+| **Oniscenary Film Pro** | Nền tảng xem phim 4K UltraHD, anime vietsub, tủ phim cá nhân, chế độ Smart TV & Trợ lý AI Gemini | `React 19` `TypeScript` `TailwindCSS` `Gemini AI` `HLS` | [💻 Repository](https://github.com/s0nbuildtech287/oniscenary_store) | [🔗 Live Demo](https://oniscenary-store.vercel.app/) |
 | **MyWallet Hub** | Nền tảng phân tích tài chính định lượng, backtest DCA & Trợ lý đầu tư AI chuyên sâu | `React` `Node.js` `Chart.js` `OpenAI` | [💻 Repository](https://github.com/s0nbuildtech287/Stocks_System) | [🔗 Live Demo](https://mywallethub-alpha.vercel.app/) |
 | **BodyGym** | Nền tảng thể hình PWA với 1,324+ bài tập, Live Workout Tracker & Muscle Heatmap | `Java` `Spring Boot 3` `PWA` `Chart.js` | [💻 Repository](https://github.com/s0nbuildtech287/body_gym) | [🔗 Live Demo](https://body-gym.onrender.com/) |
 | **Make Your Plan** | Lập kế hoạch phân cấp & Sơ đồ tư duy Canvas (Mindmap) tương tác cao với Gemini AI | `React` `TypeScript` `TailwindCSS` `Gemini AI` | [💻 Repository](https://github.com/s0nbuildtech287/yourplan) | [🔗 Live Demo](https://yourplan-two.vercel.app/) |
