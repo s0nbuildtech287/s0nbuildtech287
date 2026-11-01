@@ -36,3 +36,11 @@
 | **Stock System** | Trạm phân tích định lượng & tối ưu hóa danh mục Markowitz MPT, vnstock realtime & định giá cổ phiếu VN | `Next.js` `TailwindCSS` `Recharts` `vnstock` | [💻 Repository](https://github.com/s0nbuildtech287/Stocks_System) | [🔗 Live Demo](https://stocks-system-silk.vercel.app/) |
 | **Practice English** | Nền tảng luyện thi tiếng Anh học thuật CEFR (A1-C2), 4 kỹ năng độc lập, AI Gemini Tutor & SRS | `HTML5/CSS3` `JavaScript` `Gemini AI` `Web Speech` | [💻 Repository](https://github.com/s0nbuildtech287/English_Practice_System) | [🔗 Live Demo](https://englistpractice.vercel.app/) |
 
+## MySocial
+
+**MySocial** is a personal command center for organizing social, developer, business and startup accounts in one polished workspace. It includes an animated intro, guest demo mode, category-based account cards, service logos, Statistics/Business/Startup dashboards, JSON backup and Pattern Lock protection for sensitive actions.
+
+- 🌐 Live demo: https://mysocial-liart.vercel.app/
+- 💻 Repository: https://github.com/s0nbuildtech287/mysocial
+- 🧰 Stack: React 19, TypeScript, Vite, Tailwind CSS, Lucide React and Spring Boot/PostgreSQL backend structure.
+
