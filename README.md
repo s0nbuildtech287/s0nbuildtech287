@@ -25,7 +25,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Đi Thôi! (LetGoo)** | Trợ lý du lịch AI, lập lịch trình tuần tự vẽ lộ trình bản đồ, cảnh báo ngâm quán & phòng vote nhóm | `React 18` `Spring Boot 3` `Gemini AI` `Leaflet` | [💻 Repository](https://github.com/s0nbuildtech287/dontalk_letgo) | [🔗 Live Demo](https://dontalk-letgo.vercel.app/) |
 | **Oniscenary Film Pro** | Nền tảng xem phim 4K UltraHD, anime vietsub, tủ phim cá nhân, chế độ Smart TV & Trợ lý AI Gemini | `React 19` `TypeScript` `TailwindCSS` `Gemini AI` `HLS` | [💻 Repository](https://github.com/s0nbuildtech287/oniscenary_store) | [🔗 Live Demo](https://oniscenary-store.vercel.app/) |
-| **MyWallet Hub** | Nền tảng phân tích tài chính định lượng, backtest DCA & Trợ lý đầu tư AI chuyên sâu | `React` `Node.js` `Chart.js` `OpenAI` | [💻 Repository](https://github.com/s0nbuildtech287/Stocks_System) | [🔗 Live Demo](https://mywallethub-alpha.vercel.app/) |
+| **MyWallet Hub** | Quản trị & phân tích đa tài sản thông minh, Intro 3D điện ảnh, mô phỏng tích sản DCA từ 2020, mô hình tối ưu Markowitz MPT & đồng bộ Google Sheets Cloud DB | `React 19` `Vite` `TailwindCSS` `Python FastAPI` `Express 3-Tier` `Google Sheets Cloud` | [💻 Repository](https://github.com/s0nbuildtech287/MyWallet) | [🔗 Live Demo](https://mywallethub-alpha.vercel.app/) |
 | **BodyGym** | Nền tảng thể hình với 1,324+ bài tập, Live Workout Tracker, giáo án cá nhân & dashboard thống kê | `React` `Vite` `PWA` `Vercel` | [💻 Repository](https://github.com/s0nbuildtech287/body_gym) | [🔗 Live Demo](https://body-gym-five.vercel.app/) |
 | **Make Your Plan** | Vũ trụ lập kế hoạch & Sơ đồ tư duy Canvas 3D đối xứng 2 bên, Showcase điện ảnh, Trợ lý Gemini AI & đồng bộ Google Sheets / Java Backend | `React 19` `TypeScript` `TailwindCSS` `Spring Boot 3` `Google Sheets` `Gemini AI` | [💻 Repository](https://github.com/s0nbuildtech287/MakeYourPlan) | [🔗 Live Demo](https://make-your-plan.vercel.app/) |
 | **MySocial** | Trung tâm quản lý tài khoản & mạng xã hội cá nhân với bảo mật khóa hình vẽ (Pattern Lock) | `React` `TypeScript` `Glassmorphism` | [💻 Repository](https://github.com/s0nbuildtech287/mysocial) | [🔗 Live Demo](https://mysocial-liart.vercel.app/) |
@@ -43,4 +43,13 @@
 - 🌐 Live demo: https://mysocial-liart.vercel.app/
 - 💻 Repository: https://github.com/s0nbuildtech287/mysocial
 - 🧰 Stack: React 19, TypeScript, Vite, Tailwind CSS, Lucide React and Spring Boot/PostgreSQL backend structure.
+
+## MyWallet Hub
+
+**MyWallet Hub (Quant & DCA PRO)** is a next-generation multi-asset investment management and quantitative finance platform. It features a cinematic 3D Matrix Intro Showcase, barrier-free Guest Exploration Mode, historical DCA backtesting with real market data dating back to 2020, Wall Street quantitative models (Markowitz Modern Portfolio Theory, CAPM, Dividend Discount Model via Python FastAPI microservice), modular 3-tier Node.js Express backend, and serverless cloud database synchronization powered by Google Sheets Apps Script API + Offline-First LocalStorage.
+
+- 🌐 Live demo: https://mywallethub-alpha.vercel.app/
+- 💻 Repository: https://github.com/s0nbuildtech287/MyWallet
+- 🧰 Stack: React 19, Vite, Tailwind CSS, Python FastAPI (NumPy/Pandas/SciPy), Node.js Express (Modular 3-Tier Architecture), Google Apps Script Web App, Chart.js & SVG Canvas.
+
 
