@@ -36,6 +36,15 @@
 | **Stock System** | Trạm phân tích định lượng & tối ưu hóa danh mục Markowitz MPT, vnstock realtime & định giá cổ phiếu VN | `Next.js` `TailwindCSS` `Recharts` `vnstock` | [💻 Repository](https://github.com/s0nbuildtech287/Stocks_System) | [🔗 Live Demo](https://stocks-system-silk.vercel.app/) |
 | **Practice English** | Nền tảng luyện thi tiếng Anh học thuật CEFR (A1-C2), 4 kỹ năng độc lập, AI Gemini Tutor & SRS | `HTML5/CSS3` `JavaScript` `Gemini AI` `Web Speech` | [💻 Repository](https://github.com/s0nbuildtech287/English_Practice_System) | [🔗 Live Demo](https://englistpractice.vercel.app/) |
 
+| **ReownShop** | Modern secondhand marketplace with product discovery, seller listings, offers, escrow-oriented checkout, order tracking, chat, reviews and dispute flows | `React` `Vite` `Spring Boot` `Java 21` `PostgreSQL` `Redis` `WebSocket` | [Repository](https://github.com/s0nbuildtech287/ReownShop) | Coming soon |
+
+## ReownShop
+
+**ReownShop** is a modern secondhand marketplace focused on making peer-to-peer transactions clearer and safer. The platform brings product discovery, seller storefronts, offers, checkout, escrow-oriented order tracking, real-time chat, reviews and dispute handling into one polished experience.
+
+- Repository: https://github.com/s0nbuildtech287/ReownShop
+- Stack: React, Vite, Spring Boot, Java 21, PostgreSQL, Redis and WebSocket.
+
 ## MySocial
 
 **MySocial** is a personal command center for organizing social, developer, business and startup accounts in one polished workspace. It includes an animated intro, guest demo mode, category-based account cards, service logos, Statistics/Business/Startup dashboards, JSON backup and Pattern Lock protection for sensitive actions.
