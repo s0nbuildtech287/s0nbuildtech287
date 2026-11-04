@@ -38,20 +38,4 @@
 | **ReownShop** | Modern secondhand marketplace with product discovery, seller listings, offers, escrow-oriented checkout, order tracking, chat, reviews and dispute flows | `React` `Vite` `Spring Boot` `Java 21` `PostgreSQL` `Redis` `WebSocket` | [Repository](https://github.com/s0nbuildtech287/ReownShop) | Coming soon |
 
 
-## MySocial
-
-**MySocial** is a personal command center for organizing social, developer, business and startup accounts in one polished workspace. It includes an animated intro, guest demo mode, category-based account cards, service logos, Statistics/Business/Startup dashboards, JSON backup and Pattern Lock protection for sensitive actions.
-
-- 🌐 Live demo: https://mysocial-liart.vercel.app/
-- 💻 Repository: https://github.com/s0nbuildtech287/mysocial
-- 🧰 Stack: React 19, TypeScript, Vite, Tailwind CSS, Lucide React and Spring Boot/PostgreSQL backend structure.
-
-## MyWallet Hub
-
-**MyWallet Hub (Quant & DCA PRO)** is a next-generation multi-asset investment management and quantitative finance platform. It features a cinematic 3D Matrix Intro Showcase, barrier-free Guest Exploration Mode, historical DCA backtesting with real market data dating back to 2020, Wall Street quantitative models (Markowitz Modern Portfolio Theory, CAPM, Dividend Discount Model via Python FastAPI microservice), modular 3-tier Node.js Express backend, and serverless cloud database synchronization powered by Google Sheets Apps Script API + Offline-First LocalStorage.
-
-- 🌐 Live demo: https://mywallethub-alpha.vercel.app/
-- 💻 Repository: https://github.com/s0nbuildtech287/MyWallet
-- 🧰 Stack: React 19, Vite, Tailwind CSS, Python FastAPI (NumPy/Pandas/SciPy), Node.js Express (Modular 3-Tier Architecture), Google Apps Script Web App, Chart.js & SVG Canvas.
-
 
