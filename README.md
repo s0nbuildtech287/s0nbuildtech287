@@ -23,6 +23,7 @@
 
 | Dự án | Mô tả | Công nghệ | GitHub | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
+| **AutoBuffSub** | Nền tảng tăng trưởng tương tác mạng xã hội tự động (Facebook, TikTok, Instagram, YouTube...), nạp tiền QR ngân hàng 24/7 & theo dõi tiến độ đơn hàng thời gian thực | `Next.js 15` `React 19` `TailwindCSS` `TypeScript` `QR Banking 24/7` | [💻 Repository](https://github.com/s0nbuildtech287/AutoBuffSub) | [🔗 Live Demo](https://auto-buff-sub.vercel.app/) |
 | **Đi Thôi! (LetGoo)** | Trợ lý du lịch AI, lập lịch trình tuần tự vẽ lộ trình bản đồ, cảnh báo ngâm quán & phòng vote nhóm | `React 18` `Spring Boot 3` `Gemini AI` `Leaflet` | [💻 Repository](https://github.com/s0nbuildtech287/dontalk_letgo) | [🔗 Live Demo](https://dontalk-letgo.vercel.app/) |
 | **Oniscenary Film Pro** | Nền tảng xem phim 4K UltraHD, anime vietsub, tủ phim cá nhân, chế độ Smart TV & Trợ lý AI Gemini | `React 19` `TypeScript` `TailwindCSS` `Gemini AI` `HLS` | [💻 Repository](https://github.com/s0nbuildtech287/oniscenary_store) | [🔗 Live Demo](https://oniscenary-store.vercel.app/) |
 | **MyWallet Hub** | Quản trị & phân tích đa tài sản thông minh, Intro 3D điện ảnh, mô phỏng tích sản DCA từ 2020, mô hình tối ưu Markowitz MPT & đồng bộ Google Sheets Cloud DB | `React 19` `Vite` `TailwindCSS` `Python FastAPI` `Express 3-Tier` `Google Sheets Cloud` | [💻 Repository](https://github.com/s0nbuildtech287/MyWallet) | [🔗 Live Demo](https://mywallethub-alpha.vercel.app/) |
